@@ -1,0 +1,2 @@
+# 09ec5e80e7a958fc-church-ministry-financial-fore
+Every church ministry professionals needs this — most just don't know it yet.  Privacy-first: all processing stays local, no data sent to third-party servers. Under 1MB. Zero performance impact on browser speed.  ## What's Included  - Church Ministry Financial Forecasting And Budget Tool — fully configured and ready to use - One-click activation di
